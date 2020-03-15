@@ -1,8 +1,8 @@
 #include <stdlib.h>
-#include <iostream>
+//#include <iostream>
 #include <String.h>
 #include <stdio.h>
-#include <conio.h>
+//#include <conio.h>
 
 typedef struct agenda
 {
