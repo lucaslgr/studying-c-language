@@ -16,8 +16,8 @@ Repositório para armazenar pequenos programas e exemplos na linguagem C para fi
 
 - Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-<li>![Git](https://git-scm.com)</li>
-<li>![GCC](https://gcc.gnu.org/)</li>
+<li>[Git](https://git-scm.com)</li>
+<li>[GCC](https://gcc.gnu.org/)</li>
 <li>Uma IDE, eu indico o <b>[VSCode](https://code.visualstudio.com/)</li>
 
 ### Instalando e rodando:
